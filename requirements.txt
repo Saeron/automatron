@@ -1,5 +1,5 @@
 # Nmap module
-python-libnmap
+python-libnmap==0.7.0
 gevent-websocket
 redis
 apscheduler
